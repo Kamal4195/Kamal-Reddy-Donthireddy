@@ -11,18 +11,17 @@
 > - Applications of OOPS
 ## Characteristics of Oriented Programming
 
-· Emphasis is on data rather than procedure.
 
-· Programs are divided into what are known as objects.
+1.Programs are divided into what are known as objects.
 
-· Data structures are designed such that they characterize the objects.
+2.Data structures are designed such that they characterize the objects.
 
-· Functions that operate on the data of an object are tied together in the data structure.
+3.Functions that operate on the data of an object are tied together in the data structure.
 
-· Data is hidden and cannot be accessed by external functions.
+4.Data is hidden and cannot be accessed by external functions.
 
-· Objects may communicate with each other through functions.
+5.Objects may communicate with each other through functions.
 
-· New data and functions can be easily added whenever necessary.
+6.New data and functions can be easily added whenever necessary.
 
-· Follows bottom-up approach in program design.
+7.Follows bottom-up approach in program design.
