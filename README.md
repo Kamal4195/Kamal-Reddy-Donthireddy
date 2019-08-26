@@ -9,6 +9,7 @@
 > - Benefits of OOPS
  
 > - Applications of OOPS
+
 ## Characteristics of Oriented Programming
 
 
