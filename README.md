@@ -95,7 +95,7 @@ programmer to reuse a class that is almost, but not exactly, what he wants, and 
 class in such a way that it does not introduce any undesirable side-effects into the rest of the
 classes.
 
-![](https://github.com/Kamal4195/OBJECT-ORIENTED-PROGRAMMING-CONCEPTS/blob/master/cpp-inheritance.png)
+![](https://static.javatpoint.com/cpp/images/cpp-inheritance.png)
 
 ## Polymorphism
 
@@ -105,7 +105,7 @@ the operation.The process of making an operator to exhibit different behaviors i
 instances is known as operator overloading.Polymorphism plays an important role in allowing objects having different
 internal structures to share the same external interface. Polymorphism is extensively used in implementing inheritance.
 
-![](https://github.com/Kamal4195/OBJECT-ORIENTED-PROGRAMMING-CONCEPTS/blob/master/cpp-polymorphism.png)
+![](https://static.javatpoint.com/cpp/images/cpp-polymorphism.png)
 
 ## References
 
