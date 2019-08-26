@@ -103,3 +103,5 @@ different behaviors in different instances. The behavior depends upon the types 
 the operation.The process of making an operator to exhibit different behaviors in different
 instances is known as operator overloading.Polymorphism plays an important role in allowing objects having different
 internal structures to share the same external interface. Polymorphism is extensively used in implementing inheritance.
+
+![](https://github.com/Kamal4195/OBJECT-ORIENTED-PROGRAMMING-CONCEPTS/blob/master/cpp-polymorphism.png)
