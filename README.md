@@ -13,17 +13,17 @@
 ## Characteristics of Oriented Programming
 
 
-  1.Programs are divided into what are known as objects.
+  1. Programs are divided into what are known as objects.
 
-  2.Data structures are designed such that they characterize the objects.
+  1. Data structures are designed such that they characterize the objects.
 
-  3.Data is hidden and cannot be accessed by external functions.
+  1. Data is hidden and cannot be accessed by external functions.
 
-  4.Objects may communicate with each other through functions.
+  1. Objects may communicate with each other through functions.
 
-  5.New data and functions can be easily added whenever necessary.
+  1. New data and functions can be easily added whenever necessary.
 
-  6.Follows bottom-up approach in program design.
+  1. Follows bottom-up approach in program design.
 
 ## Definition
 
@@ -45,7 +45,8 @@
 > - Inheritance
 > - Polymorphism
  
-![OOPS](https://github.com/Kamal4195/OBJECT-ORIENTED-PROGRAMMING-CONCEPTS/blob/master/Object-Oriented-Programming-Concepts.jpg) 
+![OOPS](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190717114649/Object-Oriented-Programming-Concepts.jpg) 
+
 ## Objects
 
 Objects are the basic run-time entities in an object-oriented system. They may
