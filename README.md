@@ -94,7 +94,7 @@ class in such a way that it does not introduce any undesirable side-effects into
 classes. Note that each sub-class defines only those features that are unique to it. Without the
 use of classification, each class would have to explicitly include all of its features.
 
-![](https://github.com/Kamal4195/OBJECT-ORIENTED-PROGRAMMING-CONCEPTS/blob/master/inheritance2.png)
+![](https://github.com/Kamal4195/OBJECT-ORIENTED-PROGRAMMING-CONCEPTS/blob/master/cpp-inheritance.png)
 
 ## Polymorphism
 
