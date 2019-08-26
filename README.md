@@ -1,3 +1,4 @@
-# Rohit Sharma                                            ![](rohit-sharma.webp)
+# Kamal Reddy Donthireddy
 
-## Personal Information
+### Personal Information
+  DOB Sep 27th
