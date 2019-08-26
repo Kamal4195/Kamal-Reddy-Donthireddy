@@ -1,3 +1,3 @@
-# Rohit Sharma                                            ![](file:///C:/Users/S537153/Downloads/rohit-sharma.webp)
+# Rohit Sharma                                            ![](rohit-sharma.webp)
 
 ## Personal Information
