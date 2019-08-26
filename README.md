@@ -109,14 +109,14 @@ internal structures to share the same external interface. Polymorphism is extens
 
 ## References
 
-(https://www.pdfdrive.com/balaguruswamy-oop-with-c-e26350490.html)
+[BALAGURUSWAMY](https://www.pdfdrive.com/balaguruswamy-oop-with-c-e26350490.html)
 
-(https://www.academia.edu/37536165/let_us_c_yashwant_kanetkar.pdf)
+[KANETKAR](https://www.academia.edu/37536165/let_us_c_yashwant_kanetkar.pdf)
 
-(https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
+[DIAGRAMS](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
 
-(https://www.javatpoint.com/cpp-polymorphism)
+[DIAGRAM](https://www.javatpoint.com/cpp-polymorphism)
 
 ## Pofile
 
-**Linkedin** https://www.linkedin.com/in/kamal-reddy-80b280157
+[Linkedin](https://www.linkedin.com/in/kamal-reddy-80b280157)
