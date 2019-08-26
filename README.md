@@ -1,6 +1,6 @@
-#OBJECT ORIENTED PROGRAMMING CONCEPTS
+# OBJECT ORIENTED PROGRAMMING CONCEPTS
 
-##Objectives
+## Objectives
 
 > - Introduction to object oriented programming
  
