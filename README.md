@@ -28,7 +28,7 @@
 
   “Object-oriented programming as an approach that provides a way of
   modularizing programs by creating partitioned memory area for both data and functions that
-  can be used as templates for creating copies of such modules on demand.”
+  can be used as templates for creating copies of such modules on demand”.
   Thus, an object is considered to be partitioned area of computer memory that stores
   data and set of operations that can access that data. 
   
@@ -91,8 +91,7 @@ new class from the existing one. The new class will have the combined features o
 classes. The real appeal and power of the inheritance mechanism is that it allows the
 programmer to reuse a class that is almost, but not exactly, what he wants, and to tailor the
 class in such a way that it does not introduce any undesirable side-effects into the rest of the
-classes. Note that each sub-class defines only those features that are unique to it. Without the
-use of classification, each class would have to explicitly include all of its features.
+classes.
 
 ![](https://github.com/Kamal4195/OBJECT-ORIENTED-PROGRAMMING-CONCEPTS/blob/master/cpp-inheritance.png)
 
@@ -105,3 +104,17 @@ instances is known as operator overloading.Polymorphism plays an important role 
 internal structures to share the same external interface. Polymorphism is extensively used in implementing inheritance.
 
 ![](https://github.com/Kamal4195/OBJECT-ORIENTED-PROGRAMMING-CONCEPTS/blob/master/cpp-polymorphism.png)
+
+## References
+
+https://www.pdfdrive.com/balaguruswamy-oop-with-c-e26350490.html
+
+https://www.academia.edu/37536165/let_us_c_yashwant_kanetkar.pdf
+
+https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/
+
+https://www.javatpoint.com/cpp-polymorphism
+
+## Pofile
+
+**Linkedin** https://www.linkedin.com/in/kamal-reddy-80b280157
