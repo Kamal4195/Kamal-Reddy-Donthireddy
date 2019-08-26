@@ -39,8 +39,9 @@
  
 > - Objects
 > - Classes
-> - Data abstraction and encapsulation
+> - Data abstraction
+> - Encapsulation
 > - Inheritance
 > - Polymorphism
-> - Dynamic binding
-> - Message passing
+ 
+ ! [] (https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190717114649/Object-Oriented-Programming-Concepts.jpg)
